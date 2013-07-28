@@ -2,7 +2,7 @@
 
     File        : README.md
     Maintainer  : Felix C. Stegerman <flx@obfusk.net>
-    Date        : 2013-07-14
+    Date        : 2013-07-28
 
     Copyright   : Copyright (C) 2013  Felix C. Stegerman
 
@@ -11,7 +11,9 @@
 ## Description
 []: {{{1
 
-  napp-hello-sinatra - napp hello world app w/ sinatra
+  napp-hello-sinatra - hello world w/ sinatra
+
+  This is a hello world test app for napp made with sinatra.
 
 []: }}}1
 
